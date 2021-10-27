@@ -1,1 +1,3 @@
-# hardhat-demo
+# Hardhat demo
+
+WIP
